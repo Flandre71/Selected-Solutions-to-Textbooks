@@ -2,7 +2,7 @@
 
 ## Basic Informations
 
-This repository is my personal selected solutions to *Abstract Algebra*. Since I was self-reading this book, correctness might not be guaranteed and this repository is for reference only.
+This repository is my personal selected solutions to *Abstract Algebra (Third Edition) - David S. Dummit, Richard M. Foote*. Since I was self-reading this book, correctness might not be guaranteed and this repository is for reference only.
 
 Solutions were made using [TexMacs](https://www.texmacs.org/), saved as `.tm` files. May switch to $LaTeX$ in the future.
 
